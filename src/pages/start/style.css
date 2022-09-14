@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  height: 100%;
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-size: 20px;
+  font-weight: 500;
+}
+.img {
+  width: 600px;
+  height: 380px;
+}
+.start-exam {
+  text-decoration: none;
+  color: white;
+  background-color: #00adef;
+  padding: 8px 20px;
+  margin-top: 20px;
+  border-radius: 4px;
+  font-size: 18px;
+}
